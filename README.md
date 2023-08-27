@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan. Things to know about me:</h1>
+<img align="right" alt="Coding" width:400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ZvmqakpNA7Y27UvEg9XpT4TfDXyjYK0Jz1hXadulKYJp26dJtN2VjNIegq7-n-e00Ag&usqp=CAU">
 - 🌱 I’m currently learning **.NET and Angular**
 
 - 📫 How to reach me **batuhan.aslanbm@gmail.com**
